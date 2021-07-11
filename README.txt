@@ -1,6 +1,6 @@
 Created with love by: Vu Hong Son
 
-View online at: 
+View online at: https://vuhongson-portfolio.netlify.app/
 
 A super simple responsive portfolio.
 
